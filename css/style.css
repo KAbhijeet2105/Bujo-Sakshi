@@ -1,0 +1,65 @@
+.nav-wrapper{
+    background-color: #FDF0C4;
+   }
+   
+   .slider .indicators .indicator-item.active{
+       background-color:  #4C364D;   
+   }
+   
+   .parallax-container{
+       min-height: 380px;
+       height: auto;
+   }
+
+   .icon-coffee{
+        color: #4C364D;        /*  #F7A992; */
+   }
+   
+
+    body {
+             background: #FDF0C4;
+
+
+    }
+
+
+
+   .footer-one{
+       background-color:  #FDF0C4;
+   }
+   
+   .footer-two{
+       background-color: #4C364D;
+   }
+   
+   .bodyback{
+   
+       background-color: #F7A992;
+       color: #F7A992;
+   }
+
+   .mytxt{
+    color: #4C364D;   
+      
+   }
+
+   nav ul li a{
+    color: #4C364D;  
+  }    
+
+  
+  nav .brand-logo{
+    color: #4C364D;  
+  }    
+
+  .contain {
+      object-fit: contain;
+    }
+
+
+
+  /* h3 {
+
+  
+  } */
+
